@@ -1,6 +1,24 @@
+<div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Bardia%20Sabagh%20Kermani&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+%40+Amirkabir+University;Efficient+%26+On-Device+Computer+Vision;Graph+Neural+Networks+%26+Knowledge+Graphs;Building+datasets+and+benchmarks)](https://git.io/typing-svg)
+ 
+![Profile views](https://komarev.com/ghpvc/?username=bardia1122&label=Profile+views&style=flat-square&color=0e75b6)
+ 
+</div>
+
 # About Me:
 
 Final-year BSc Computer Engineering student at Amirkabir University of Technology.
+
+## Currently:
+ 
+- 🔭 Researching LLM integration into GNNs and knowledge graphs at the Data Science Lab
+- 🧪 Writing a comment paper on a TxGNN ablation study
+- 📱 Working on real-time, on-device obstacle detection for pedestrian safety
+- 🎓 Final-year BSc student, graduating Feb 2027
+- 🤝 Open to research collaborations and graduate opportunities
+<!-- ===== 3. PUT THESE AT THE END, AFTER "GitHub Stats" ===== -->
 
 ## Socials:
 
@@ -46,3 +64,25 @@ Final-year BSc Computer Engineering student at Amirkabir University of Technolog
 [![Streak Stats](https://streak-stats.demolab.com/?user=bardia1122&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bardia1122&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Contribution Activity:
+ 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bardia1122&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/bardia1122)
+
+## Trophies:
+ 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=bardia1122&theme=onedark&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Contribution Snake:
+ 
+![Snake animation](https://raw.githubusercontent.com/bardia1122/bardia1122/output/github-snake-dark.svg)
+ 
+<details>
+<summary><b>🏆 Honors &amp; Teaching</b></summary>
+- 6th place, Fito Hackathon (national Data Science &amp; Image Processing competition)
+- Top 10, AlgoCup coding competition
+</details>
+<div align="center">
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer)
+ 
+</div>
