@@ -1,11 +1,10 @@
 <div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Bardia%20Sabagh%20Kermani&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f2027,100:2c5364&amp;height=180&amp;section=header&amp;text=Bardia%20Sabagh%20Kermani&amp;fontSize=36&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38" width="100%" alt="Bardia Sabagh Kermani" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1200&amp;color=36BCF7&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Computer+Engineering+%40+Amirkabir+University;Efficient+%26+On-Device+Computer+Vision;Graph+Neural+Networks+%26+Knowledge+Graphs;Building+datasets+and+benchmarks" alt="Typing animation" /></a>
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Engineering+%40+Amirkabir+University;Efficient+%26+On-Device+Computer+Vision;Graph+Neural+Networks+%26+Knowledge+Graphs;Building+datasets+and+benchmarks)](https://git.io/typing-svg)
- 
-![Profile views](https://komarev.com/ghpvc/?username=bardia1122&label=Profile+views&style=flat-square&color=0e75b6)
- 
+<img src="https://komarev.com/ghpvc/?username=bardia1122&amp;label=Profile+views&amp;style=flat-square&amp;color=0e75b6" alt="Profile views" />
 </div>
+
 
 # About Me:
 
@@ -65,13 +64,14 @@ Final-year BSc Computer Engineering student at Amirkabir University of Technolog
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bardia1122&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
 ## Contribution Activity:
  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bardia1122&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/bardia1122)
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bardia1122&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff" width="100%" alt="Contribution activity graph" />
 ## Trophies:
  
-[![Trophies](https://github-profile-trophy.vercel.app/?username=bardia1122&theme=onedark&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=bardia1122&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;column=7" width="100%" alt="GitHub trophies" />
+
 
 ## Contribution Snake:
  
@@ -83,6 +83,5 @@ Final-year BSc Computer Engineering student at Amirkabir University of Technolog
 - Top 10, AlgoCup coding competition
 </details>
 <div align="center">
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer)
- 
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,100:0f2027&amp;height=100&amp;section=footer" width="100%" alt="" />
 </div>
