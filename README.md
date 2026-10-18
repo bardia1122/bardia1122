@@ -64,24 +64,11 @@ Final-year BSc Computer Engineering student at Amirkabir University of Technolog
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bardia1122&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
-## Contribution Activity:
+## Stats Overview:
  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bardia1122&amp;theme=github-compact&amp;hide_border=true&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=ffffff" width="100%" alt="Contribution activity graph" />
-## Trophies:
- 
-<img src="https://github-profile-trophy.vercel.app/?username=bardia1122&amp;theme=onedark&amp;no-frame=true&amp;no-bg=true&amp;column=7" width="100%" alt="GitHub trophies" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=bardia1122&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;count_private=true" alt="GitHub stats" />
 
 ## Contribution Snake:
  
 ![Snake animation](https://raw.githubusercontent.com/bardia1122/bardia1122/output/github-snake-dark.svg)
  
-<details>
-<summary><b>🏆 Honors &amp; Teaching</b></summary>
-- 6th place, Fito Hackathon (national Data Science &amp; Image Processing competition)
-- Top 10, AlgoCup coding competition
-</details>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2c5364,100:0f2027&amp;height=100&amp;section=footer" width="100%" alt="" />
-</div>
