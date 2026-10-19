@@ -13,7 +13,6 @@ Final-year BSc Computer Engineering student at Amirkabir University of Technolog
 ## Currently:
  
 - 🔭 Researching LLM integration into GNNs and knowledge graphs at the Data Science Lab
-- 🧪 Writing a comment paper on a TxGNN ablation study
 - 📱 Working on real-time, on-device obstacle detection for pedestrian safety
 - 🎓 Final-year BSc student, graduating Feb 2027
 - 🤝 Open to research collaborations and graduate opportunities
