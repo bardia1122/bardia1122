@@ -50,7 +50,7 @@ Final-year BSc Computer Engineering student at Amirkabir University of Technolog
  
 **Interests:** Computer Vision · Efficient & On-Device Deep Learning · Graph Neural Networks · Datasets & Benchmarking
  
-- **ROD-Dataset** — a pedestrian-perspective benchmark of 25 urban obstacle classes (24,326 images, 40,195 instances) for real-time detection, benchmarked across six YOLO generations. Open source (MIT) with 88K+ Hugging Face downloads. *Under review.* [Hugging Face](YOUR_HUGGINGFACE_LINK) · [Kaggle](YOUR_KAGGLE_LINK)
+- **ROD-Dataset** — a pedestrian-perspective benchmark of 25 urban obstacle classes (24,326 images, 40,195 instances) for real-time detection, benchmarked across six YOLO generations. Open source (MIT) with 88K+ Hugging Face downloads. *Under review.* [Hugging Face](https://huggingface.co/datasets/Abtinzandi/Obstacle-Detection-Dataset-YOLO) · [Kaggle](https://www.kaggle.com/datasets/abtinzandi/obstacle-detection-dataset)
 - **Real-time obstacle detection and distance estimation on smartphones** for visually impaired and distracted pedestrians (compressed YOLOv8n, up to 8× faster on a mid-range phone).
 - **From White Canes to Edge AI** — a PRISMA-based survey of 108 studies on assistive navigation for blind and low-vision individuals.
 - **TxGNN ablation study** — testing whether zero-shot drug-repurposing gains come from prior clinical knowledge rather than learned GNN representations. *In progress.*
